@@ -16,7 +16,7 @@ Few-shot open-set recognition (FSOR) is the task of recognizing samples in known
 ### Installation
 
 ```bash
-git clone https://github.com/jyp-studio/FSOR-OPP.git
+git clone https://github.com/liangyu-git/FSOR-OPP.git
 cd FSOR-OPP
 pip install -r requirements.txt
 ```
